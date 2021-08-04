@@ -1,6 +1,6 @@
 # login-page <br>
  Pure CSS and HTML log in page <br>
-once you have logged in,it will take you to home page< br>
+once you have logged in,it will take you to home page
 # home-page 
 with two links : <br>
 1-robot control page : <br>
