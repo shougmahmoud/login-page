@@ -1,7 +1,7 @@
 # login-page <br>
  Pure CSS and HTML log in page <br>
 once you have logged in,it will take you to home page< br>
-#home page 
+# home-page 
 with two links : <br>
 1-robot control page : <br>
 with 5 buttons right, left, forwards,down to move the robot and press stop to stop moving it. <br>
